@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-protected-router/static/css/main.8fd45f7c.css",
+    "main.js": "/react-protected-router/static/js/main.8e038966.js",
+    "static/js/787.b82152c5.chunk.js": "/react-protected-router/static/js/787.b82152c5.chunk.js",
+    "static/media/dubai.jpg": "/react-protected-router/static/media/dubai.0f2e0227d3d00ced38f8.jpg",
+    "index.html": "/react-protected-router/index.html",
+    "main.8fd45f7c.css.map": "/react-protected-router/static/css/main.8fd45f7c.css.map",
+    "main.8e038966.js.map": "/react-protected-router/static/js/main.8e038966.js.map",
+    "787.b82152c5.chunk.js.map": "/react-protected-router/static/js/787.b82152c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd45f7c.css",
+    "static/js/main.8e038966.js"
+  ]
+}
